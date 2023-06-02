@@ -1,0 +1,5 @@
+create DATABASE hotel_php
+
+
+CREATE table clientes (codogo int AUTO_INCREMENT primary key  ,id varchar(20),primer_apellido varchar(100),segundo_apellido varchar(100),nombres varchar(100),correo varchar(100))
+
